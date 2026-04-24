@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Mahir Aziz 👋
 
-<!--
-**mahiraziiz/mahiraziiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year Student at IIIT Bhopal  
+💻 Full Stack Developer (MERN Stack)  
+🚀 Building scalable web applications  
+🧠 Solving DSA problems regularly  
+📌 Currently exploring advanced backend systems  
 
-Here are some ideas to get you started:
+## Tech Stack
+- Frontend: React, Tailwind CSS, JavaScript
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Tools: Git, GitHub, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Joke Management App
+- MERN Full Stack Apps
+- REST APIs with Authentication
+
+## Connect With Me
+- LinkedIn: your-link
+- Email: your-email

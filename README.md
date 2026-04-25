@@ -41,7 +41,7 @@ Git • GitHub • Postman • VS Code • Netlify • Cloudinary • Docker (Ba
 
 ## 💼 Experience
 
-### Full Stack Developer Intern | Navrobtec Pvt Ltd
+### Full Stack Developer Intern | NAVRobotec Pvt Ltd
 📅 Oct 2025 – Dec 2025
 
 - Developed REST APIs using Node.js & Express.js  

@@ -98,7 +98,7 @@ Git • GitHub • Postman • VS Code • Netlify • Cloudinary • Docker (Ba
 ## 📫 Connect With Me
 
 📧 mahiraziz007@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/mahir-aziiz-ma786
+🔗 LinkedIn: https://www.linkedin.com/in/mahir-aziiz-ma786/
 💻 GitHub: https://github.com/mahiraziiz/mahiraziiz
 🧩 LeetCode: https://leetcode.com/u/mahir_aziiz/
 

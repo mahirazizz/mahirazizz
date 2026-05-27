@@ -1,6 +1,6 @@
 # Hi, I'm Mahir Aziz 👋
 
-🎓 Pre Final Year CSE Student at IIIT Bhopal  
+🎓 Final Year CSE Student at IIIT Bhopal  
 💻 Software Development Engineer | Full Stack Developer  
 🚀 Building scalable web applications & backend systems  
 🧠 Solved 400+ DSA problems on LeetCode & GeeksforGeeks 
@@ -35,7 +35,7 @@ Node.js • Express.js • REST APIs • MVC Architecture
 MongoDB • PostgreSQL
 
 ### Tools
-Git • GitHub • Postman • VS Code • Netlify • Cloudinary • Docker (Basics)
+Git • GitHub • Postman • VS Code • Netlify • Cloudinary • Docker
 
 ---
 

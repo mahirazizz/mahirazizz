@@ -1,136 +1,113 @@
-# Hi, I'm Mahir Aziz 👋
+<h1 align="center">Hi, I'm Mahir Aziz 👋</h1>
 
-### Software Engineer | Full Stack Developer | Ex-Full Stack Intern @ NAVRobotec | IIIT Bhopal CSE'27
+<p align="center">
+  <b>Backend & Full Stack Developer · IIIT Bhopal CSE '27 · Open to Internships & SDE Roles</b>
+</p>
 
-🚀 Passionate about building scalable backend systems, cloud-deployed applications, and high-performance web products.
-
-* 🎓 B.Tech in Computer Science & Engineering @ IIIT Bhopal
-* 💼 Ex-Full Stack Developer Intern @ NAVRobotec Pvt Ltd
-* 🧠 Solved **400+ DSA Problems** across LeetCode & GeeksforGeeks
-* ⭐ CodeChef **2★** (Max Rating: 1575)
-* ☁️ Experience deploying applications on **AWS EC2**, **AWS S3**, **Docker**, and **Linux**
-* 🌱 Currently learning **System Design**, **Scalable Architectures**, and **Cloud Engineering**
-
----
-
-## 👨‍💻 About Me
-
-I'm a backend-focused software engineer who enjoys designing APIs, optimizing databases, and building full-stack applications that solve real-world problems.
-
-My interests include:
-
-* Backend Development
-* Software Development Engineering (SDE)
-* Cloud Computing & DevOps
-* System Design
-* Performance Optimization
-* Scalable Web Applications
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahirazizz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/mahirazizz/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="mailto:mahiraziz007@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/mahirazizz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## About
 
-### Languages
+I'm a pre-final year CSE student at IIIT Bhopal who builds and ships full-stack products — from designing REST APIs to deploying them on AWS EC2 with Docker. I care about writing backend code that's maintainable, performant, and production-ready.
 
-`C++` `C` `JavaScript` `TypeScript`
-
-### Frontend
-
-`React.js` `Next.js` `Redux Toolkit` `HTML` `CSS` `Tailwind CSS`
-
-### Backend
-
-`Node.js` `Express.js` `REST APIs` `JWT Authentication` `RBAC` `MVC Architecture`
-
-### Databases
-
-`MongoDB` `PostgreSQL`
-
-### Cloud & DevOps
-
-`AWS EC2` `AWS S3` `Docker` `Linux`
-
-### Tools
-
-`Git` `GitHub` `Postman` `Cloudinary`
+- 🏢 Ex Full Stack Developer Intern — **NAVRobotec Pvt Ltd** (Oct–Dec 2025)
+- ⚙️ Deployed REST APIs on **AWS EC2**, integrated **AWS S3**, containerized with **Docker** on Linux
+- 🗄️ Cut MongoDB latency by **35%** via compound indexing; improved API response time by **30%**
+- 🧠 Solved **400+ DSA problems** on LeetCode & GeeksforGeeks (Arrays, Graphs, DP, Trees)
+- 📖 Currently deepening skills in **System Design** and **Distributed Systems**
 
 ---
 
-## 💼 Experience
+## Tech Stack
 
-### Full Stack Developer Intern | NAVRobotec Pvt Ltd
+**Languages**
 
-**Oct 2025 – Dec 2025**
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
-* Developed and deployed **REST APIs** using **Node.js** and **Express.js**
-* Improved API response time by **30%**
-* Reduced MongoDB query latency by **35%** through indexing and query optimization
-* Integrated **AWS S3** and Cloudinary for scalable media storage
-* Worked with **Docker** and **Linux** deployment environments
-* Designed modular backend services using **MVC Architecture**
+**Frontend**
 
----
+![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-## 🚀 Featured Projects
+**Backend**
 
-### 🏠 Rental Management System
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-**Next.js • Node.js • PostgreSQL • TypeScript**
+**Databases**
 
-* Full-stack rental platform supporting property listing, search, and booking
-* Implemented **JWT Authentication** and **Role-Based Access Control (RBAC)**
-* Optimized PostgreSQL queries, improving performance by **40%**
-* Built responsive UI with server-side rendering support
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-### 🛒 E-Commerce Platform
+**Cloud & DevOps**
 
-**React.js • Node.js • MongoDB • Redux Toolkit**
-
-* Built a scalable platform with **15+ REST APIs**
-* Implemented secure authentication and role-based authorization
-* Developed product, user, and order management workflows
-* Improved frontend performance through Redux Toolkit state management
-
-### 🌦️ Real-Time Weather Application
-
-**React.js • JavaScript • REST API**
-
-* Real-time weather tracking with third-party API integration
-* Location-based weather fetching
-* Responsive user interface using Tailwind CSS
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 🏆 Achievements
+## Featured Projects
 
-* Solved **400+ DSA Problems**
-* CodeChef **2★** (Max Rating: 1575)
-* Strong foundation in Algorithms, DBMS, Operating Systems, and Computer Networks
+### [Rental Management System](https://github.com/mahiraziiz/Rental_App)
+> Next.js · Node.js · PostgreSQL · TypeScript
 
----
-
-## 📚 Currently Learning
-
-* System Design
-* Distributed Systems
-* Cloud Architecture (AWS)
-* DevOps & Containerization
-* Performance Engineering
+Full-stack rental platform with dynamic property search and filtering. Implemented RBAC and JWT authentication for landlord/tenant role separation. Optimized PostgreSQL queries with indexing and connection pooling — **40% faster API response under concurrent load**.
 
 ---
 
-## 📫 Let's Connect
+### [Full-Stack E-Commerce Platform](https://github.com/mahiraziiz/E-Commerce-Website)
+> React.js · Node.js · MongoDB · Redux Toolkit
 
-📧 **Email:** [mahiraziz007@gmail.com](mailto:mahiraziz007@gmail.com)
-
-💼 **LinkedIn:** linkedin.com/in/mahirazizz
-
-💻 **GitHub:** github.com/mahirazizz
-
-🧩 **LeetCode:** leetcode.com/u/mahirazizz
+Scalable e-commerce system with **15+ REST APIs** covering product catalog, user management, and order lifecycle. JWT auth + RBAC across admin and customer flows. Redux Toolkit state management to reduce redundant API calls.
 
 ---
 
-### ⚡ Fun Fact
+### [Real-Time Weather Application](https://github.com/mahiraziiz/weather-app)
+> React.js · JavaScript · REST API · Tailwind CSS
 
-I enjoy turning complex problems into scalable software solutions and continuously improving both my development and problem-solving skills.
+Location-aware weather app with real-time third-party API integration and a responsive, dynamic UI.
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahirazizz&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahirazizz&layout=compact&theme=github_dark&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahirazizz&theme=github-dark-blue&hide_border=true"/>
+</p>
+
+---
+
+## Achievements
+
+- 🧠 **400+ DSA problems** — LeetCode & GeeksforGeeks (Arrays, Graphs, DP, Trees, System Design patterns)
+- ⭐ **2-star CodeChef** — Max Rating 1575
+- 🎓 **CGPA 8.29/10** — IIIT Bhopal, CSE
+
+---
+
+<p align="center">
+  <i>Open to SDE, Backend Engineer, and Full Stack Developer roles — internships and full-time (2027).</i><br/>
+  <b>📩 mahiraziz007@gmail.com</b>
+</p>

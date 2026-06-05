@@ -1,109 +1,136 @@
 # Hi, I'm Mahir Aziz 👋
 
-🎓 Final Year CSE Student at IIIT Bhopal  
-💻 Software Development Engineer | Full Stack Developer  
-🚀 Building scalable web applications & backend systems  
-🧠 Solved 400+ DSA problems on LeetCode & GeeksforGeeks 
-📌 Currently exploring system design & performance optimization  
+### Software Engineer | Full Stack Developer | Ex-Full Stack Intern @ NAVRobotec | IIIT Bhopal CSE'27
+
+🚀 Passionate about building scalable backend systems, cloud-deployed applications, and high-performance web products.
+
+* 🎓 B.Tech in Computer Science & Engineering @ IIIT Bhopal
+* 💼 Ex-Full Stack Developer Intern @ NAVRobotec Pvt Ltd
+* 🧠 Solved **400+ DSA Problems** across LeetCode & GeeksforGeeks
+* ⭐ CodeChef **2★** (Max Rating: 1575)
+* ☁️ Experience deploying applications on **AWS EC2**, **AWS S3**, **Docker**, and **Linux**
+* 🌱 Currently learning **System Design**, **Scalable Architectures**, and **Cloud Engineering**
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a passionate Software Development Engineer with strong problem-solving skills and hands-on experience in full-stack development. I enjoy building scalable products, optimizing backend systems, and creating clean user experiences.
+I'm a backend-focused software engineer who enjoys designing APIs, optimizing databases, and building full-stack applications that solve real-world problems.
 
-- 💼 Full Stack Developer Intern at Navrobtec Pvt Ltd  
-- ⚡ Improved API response time by 30%  
-- 📈 Reduced MongoDB latency by 35% using indexing  
-- 🔐 Experienced in JWT Auth & Role-Based Access Control  
-- 🛠️ Strong in REST APIs, MVC Architecture & Database Design
+My interests include:
+
+* Backend Development
+* Software Development Engineering (SDE)
+* Cloud Computing & DevOps
+* System Design
+* Performance Optimization
+* Scalable Web Applications
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
-C • C++ • JavaScript • TypeScript
+
+`C++` `C` `JavaScript` `TypeScript`
 
 ### Frontend
-React.js • Next.js • Redux Toolkit • HTML • CSS • Tailwind CSS • Bootstrap
+
+`React.js` `Next.js` `Redux Toolkit` `HTML` `CSS` `Tailwind CSS`
 
 ### Backend
-Node.js • Express.js • REST APIs • MVC Architecture
+
+`Node.js` `Express.js` `REST APIs` `JWT Authentication` `RBAC` `MVC Architecture`
 
 ### Databases
-MongoDB • PostgreSQL
+
+`MongoDB` `PostgreSQL`
+
+### Cloud & DevOps
+
+`AWS EC2` `AWS S3` `Docker` `Linux`
 
 ### Tools
-Git • GitHub • Postman • VS Code • Netlify • Cloudinary • Docker
+
+`Git` `GitHub` `Postman` `Cloudinary`
 
 ---
 
 ## 💼 Experience
 
 ### Full Stack Developer Intern | NAVRobotec Pvt Ltd
-📅 Oct 2025 – Dec 2025
 
-- Developed REST APIs using Node.js & Express.js  
-- Improved response time by 30%  
-- Optimized MongoDB queries reducing latency by 35%  
-- Integrated Cloudinary for media handling  
-- Built modular backend using MVC Architecture
+**Oct 2025 – Dec 2025**
+
+* Developed and deployed **REST APIs** using **Node.js** and **Express.js**
+* Improved API response time by **30%**
+* Reduced MongoDB query latency by **35%** through indexing and query optimization
+* Integrated **AWS S3** and Cloudinary for scalable media storage
+* Worked with **Docker** and **Linux** deployment environments
+* Designed modular backend services using **MVC Architecture**
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
 ### 🏠 Rental Management System
+
 **Next.js • Node.js • PostgreSQL • TypeScript**
 
-- Full-stack rental platform managing 10+ properties  
-- Dynamic filtering & search  
-- RBAC & Secure Authentication  
-- Improved performance by 40%
+* Full-stack rental platform supporting property listing, search, and booking
+* Implemented **JWT Authentication** and **Role-Based Access Control (RBAC)**
+* Optimized PostgreSQL queries, improving performance by **40%**
+* Built responsive UI with server-side rendering support
 
-### 🛒 Full-Stack E-Commerce Platform
-**React • Node.js • MongoDB • Redux Toolkit**
+### 🛒 E-Commerce Platform
 
-- Built scalable platform with 15+ REST APIs  
-- JWT Authentication & Role-Based Access Control  
-- Improved frontend performance by 50%
+**React.js • Node.js • MongoDB • Redux Toolkit**
+
+* Built a scalable platform with **15+ REST APIs**
+* Implemented secure authentication and role-based authorization
+* Developed product, user, and order management workflows
+* Improved frontend performance through Redux Toolkit state management
 
 ### 🌦️ Real-Time Weather Application
-**React • JavaScript • REST API**
 
-- Real-time weather updates  
-- Location-based weather fetching  
-- Responsive Tailwind UI
+**React.js • JavaScript • REST API**
+
+* Real-time weather tracking with third-party API integration
+* Location-based weather fetching
+* Responsive user interface using Tailwind CSS
 
 ---
 
 ## 🏆 Achievements
 
-- Solved 400+ DSA problems  
-- 2★ CodeChef (Max Rating: 1575)  
-- Strong in Data Structures & Algorithms
+* Solved **400+ DSA Problems**
+* CodeChef **2★** (Max Rating: 1575)
+* Strong foundation in Algorithms, DBMS, Operating Systems, and Computer Networks
 
 ---
 
-## 🎯 Currently Learning
+## 📚 Currently Learning
 
-- Advanced Backend Development  
-- System Design  
-- DevOps & Docker  
-- Scalable Architecture
-
----
-
-## 📫 Connect With Me
-
-📧 mahiraziz007@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/mahir-azizz/
-💻 GitHub: https://github.com/mahirazizz
-🧩 LeetCode: https://leetcode.com/u/mahirazizz/
+* System Design
+* Distributed Systems
+* Cloud Architecture (AWS)
+* DevOps & Containerization
+* Performance Engineering
 
 ---
 
-## ⚡ Fun Fact
+## 📫 Let's Connect
 
-I love solving complex coding problems and turning ideas into real-world scalable applications.
+📧 **Email:** [mahiraziz007@gmail.com](mailto:mahiraziz007@gmail.com)
+
+💼 **LinkedIn:** linkedin.com/in/mahirazizz
+
+💻 **GitHub:** github.com/mahirazizz
+
+🧩 **LeetCode:** leetcode.com/u/mahirazizz
+
+---
+
+### ⚡ Fun Fact
+
+I enjoy turning complex problems into scalable software solutions and continuously improving both my development and problem-solving skills.
